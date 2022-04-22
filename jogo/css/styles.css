@@ -1,0 +1,14 @@
+/*Distribute the divButton equaly in the div line */
+.divButton {
+    background-color: rgb(122, 122, 122);
+    padding: 5vh 10vw;
+}
+
+.line {
+    display: flex;
+    height: 9%;
+}
+
+body {
+    margin: 0px;
+}
